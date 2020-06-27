@@ -1,2 +1,2 @@
 # USNews-Web-Scraper
-A project done at an internship.
+A project done at my A.M. Money internship.
